@@ -1,0 +1,1 @@
+data = '[{"name": "Trip on 2021-06-27","gpxfile": "trip on 2021-06-27.gpx","distance": "0.0","comments": "","crew": ""},{"name": "Trip on 2021-06-19","gpxfile": "trip on 2021-06-19.gpx","distance": "0.0","comments": "","crew": ""},{"name": "Trip on 2021-06-13","gpxfile": "trip on 2021-06-13.gpx","distance": "0.0","comments": "","crew": ""}]';
