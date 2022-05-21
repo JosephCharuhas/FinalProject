@@ -1,9 +1,4 @@
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-import java.time.*;
-
-public class WayPoint
+public class Track 
 {
     private String time;
     private String latitude;
@@ -32,10 +27,8 @@ public class WayPoint
     private String water2;
     private String battery1;
     private String battery2;
-    private DateTimeFormatter dtf;
-    private LocalDate date1;
 
-    public WayPoint(String time1, String latitude1, String longitude1, String depth1, String totalLog1, String rudder1, String pitch1, String roll1, String heading1, String STW1, String COG1, String SOG1, String TWD1, String TWA1, String TWS1, String AWA1, String AWS1, String AWSmax1, String waterTemperature1, String RPM11, String engineHours11, String coolantTemperature11, String fuel1, String water11, String water21, String battery11, String battery21)
+    public Track(String time1, String latitude1, String longitude1, String depth1, String totalLog1, String rudder1, String pitch1, String roll1, String heading1, String STW1, String COG1, String SOG1, String TWD1, String TWA1, String TWS1, String AWA1, String AWS1, String AWSmax1, String waterTemperature1, String RPM11, String engineHours11, String coolantTemperature11, String fuel1, String water11, String water21, String battery11, String battery21)
     {
         time = time1;
         latitude = latitude1;
@@ -65,17 +58,13 @@ public class WayPoint
         battery1 = battery11;
         battery2 = battery21;
 
-        dtf = DateTimeFormatter.ofPattern("M/d/yyyy");
-        date1 = LocalDate.parse(getDate(), dtf);
-        //System.out.println("Converted date: " + date1);
-
     }
 
 
     public String toString() 
     {
         String str;
-        str = "<wpt lat=\"" + latitude + "\" lon=\"" + longitude + "\"><name>" + time + "</name><ele>-2.51</ele><cmt>\n";
+        str = "<trkpt lat=\"" + latitude + "\" lon=\"" + longitude + "\"><name>" + time + "</name><ele>-2.51</ele><cmt>\n";
         str += "Depth: " + depth + " ft\n";
         str += "Total Log: " + totalLog + " nm\n";
         str += "Rudder: " + rudder + "°\n";
@@ -91,25 +80,7 @@ public class WayPoint
         str += "Coolant Temp.: " + coolantTemperature1 + "°C\n";
         str += "Fuel #1: " + fuel + "%\n";
         str += "Water, %: " + water1 + " / " + water2 + "\n";         
-        str += "</cmt></wpt>";
+        str += "</cmt></trkpt>";
         return (str);
-    }
-   
-    public String getDate()
-    {
-        //System.out.println("Time: " + time);
-        //System.out.println(time.substring(1, time.indexOf(',')));
-        return time.substring(1, time.indexOf(','));
-    }
- 
-    public LocalDate getConvertedDate()
-    {
-        return date1;
-    }
-    
-    public double getTotalLog()
-    {
-        return Double.parseDouble(totalLog);
-    }
-    
+    }    
 }

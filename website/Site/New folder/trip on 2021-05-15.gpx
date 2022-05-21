@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Yacht Devices NMEA 0183 Wi-Fi Gateway - www.yachtd.com" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"><metadata><time>2021-07-25T19:31:00.000Z</time></metadata>
+
+<wpt lat="38.9666940" lon="-76.4796824"><name>"5/15/2021,  8:06:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.21916 ft
+Total Log: 562.0 nm
+Rudder: 31.75°
+Roll / Pitch: -5.3 / 0.5
+Heading / STW: 241.4 / 0.0 knots
+COG / SOG: 0.0° / 0.1 knots
+TWD:115.4°
+AWA / AWS: -125.5° / 7.7 knots
+AWS (max): 12.7 knots
+Water Temperature: 21.5°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9666793" lon="-76.4797033"><name>"5/15/2021,  8:01:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.15354 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -5.0 / 0.5
+Heading / STW: 241.1 / 0.0 knots
+COG / SOG: 86.1° / 0.3 knots
+TWD:112.8°
+AWA / AWS: -124.6° / 3.5 knots
+AWS (max): 11.2 knots
+Water Temperature: 21.5°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.6 / 99.6
+</cmt></wpt>
+
+
+<wpt lat="38.9667002" lon="-76.4797040"><name>"5/15/2021,  6:18:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.15354 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -5.0 / 0.5
+Heading / STW: 241.1 / 0.0 knots
+COG / SOG: 0.0° / 0.0 knots
+TWD:132.0°
+AWA / AWS: -109.1° / 2.8 knots
+AWS (max): 4.2 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9667205" lon="-76.4797058"><name>"5/15/2021,  6:13:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.95669 ft
+Total Log: 562.0 nm
+Rudder: 31.75°
+Roll / Pitch: -6.3 / 0.5
+Heading / STW: 241.1 / 0.0 knots
+COG / SOG: 216.6° / 0.4 knots
+TWD:110.1°
+AWA / AWS: -131.0° / 4.2 knots
+AWS (max): 5.7 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9662560" lon="-76.4800768"><name>"5/15/2021,  6:08:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.79265 ft
+Total Log: 562.0 nm
+Rudder: -4.75°
+Roll / Pitch: -6.0 / -0.3
+Heading / STW: 237.1 / 0.0 knots
+COG / SOG: 232.1° / 0.4 knots
+TWD:60.2°
+AWA / AWS: -176.9° / 1.7 knots
+AWS (max): 3.9 knots
+Water Temperature: 22°C
+RPM: 2052
+Engine hours: 157
+Coolant Temp.: 76°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9682947" lon="-76.4732361"><name>"5/15/2021,  6:03:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 10.07218 ft
+Total Log: 562.0 nm
+Rudder: 2°
+Roll / Pitch: -5.5 / 0.5
+Heading / STW: 288.9 / 0.0 knots
+COG / SOG: 280.1° / 4.5 knots
+TWD:332.3°
+AWA / AWS: 43.4° / 3.4 knots
+AWS (max): 6.4 knots
+Water Temperature: 22.5°C
+RPM: 1289
+Engine hours: 156.75
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 95.6 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9662011" lon="-76.4621478"><name>"5/15/2021,  5:58:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 18.14304 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.8 / 0.8
+Heading / STW: 286.3 / 0.0 knots
+COG / SOG: 279.7° / 6.8 knots
+TWD:299.1°
+AWA / AWS: 12.8° / 5.3 knots
+AWS (max): 5.8 knots
+Water Temperature: 21°C
+RPM: 2344
+Engine hours: 156.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 98.0 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9664258" lon="-76.4495583"><name>"5/15/2021,  5:53:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 12.95932 ft
+Total Log: 562.0 nm
+Rudder: 0.5°
+Roll / Pitch: -5.0 / 0.8
+Heading / STW: 270.6 / 0.0 knots
+COG / SOG: 261.0° / 7.0 knots
+TWD:275.7°
+AWA / AWS: 5.1° / 3.5 knots
+AWS (max): 3.9 knots
+Water Temperature: 20.5°C
+RPM: 2346
+Engine hours: 156.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9684571" lon="-76.4373881"><name>"5/15/2021,  5:48:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 20.40682 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -4.3 / 0.8
+Heading / STW: 267.8 / 0.0 knots
+COG / SOG: 258.4° / 7.1 knots
+TWD:298.6°
+AWA / AWS: 30.8° / 3.2 knots
+AWS (max): 3.5 knots
+Water Temperature: 20.5°C
+RPM: 2345
+Engine hours: 156.5
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 92.0 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9707585" lon="-76.4273211"><name>"5/15/2021,  5:43:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 16.10892 ft
+Total Log: 562.0 nm
+Rudder: 1.5°
+Roll / Pitch: -5.5 / 0.5
+Heading / STW: 261.3 / 0.0 knots
+COG / SOG: 251.2° / 5.8 knots
+TWD:211.7°
+AWA / AWS: -49.6° / 2.9 knots
+AWS (max): 4.8 knots
+Water Temperature: 20.5°C
+RPM: 1742
+Engine hours: 156.5
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 97.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9740073" lon="-76.4181358"><name>"5/15/2021,  5:38:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 14.92782 ft
+Total Log: 562.0 nm
+Rudder: -8.25°
+Roll / Pitch: -4.5 / 0.8
+Heading / STW: 261.9 / 0.0 knots
+COG / SOG: 257.0° / 5.0 knots
+TWD:64.0°
+AWA / AWS: 162.1° / 1.5 knots
+AWS (max): 6.7 knots
+Water Temperature: 21°C
+RPM: 1743
+Engine hours: 156.5
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9733333" lon="-76.4163020"><name>"5/15/2021,  5:33:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 15.61680 ft
+Total Log: 562.0 nm
+Rudder: 0.75°
+Roll / Pitch: -5.8 / 0.5
+Heading / STW: 297.0 / 0.0 knots
+COG / SOG: 281.0° / 1.8 knots
+TWD:40.6°
+AWA / AWS: 103.6° / 4.5 knots
+AWS (max): 6.2 knots
+Water Temperature: 21°C
+RPM: 801
+Engine hours: 156.25
+Coolant Temp.: 76°C
+Fuel #1: 97.6%
+Water, %: 96.4 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9720340" lon="-76.4062933"><name>"5/15/2021,  5:28:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 31.59449 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -6.3 / 0.5
+Heading / STW: 307.5 / 0.0 knots
+COG / SOG: 290.8° / 7.2 knots
+TWD:315.5°
+AWA / AWS: 8.0° / 5.6 knots
+AWS (max): 8.8 knots
+Water Temperature: 20°C
+RPM: 2176
+Engine hours: 156.25
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 95.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9679264" lon="-76.3958400"><name>"5/15/2021,  5:23:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 44.88189 ft
+Total Log: 562.0 nm
+Rudder: -0.5°
+Roll / Pitch: -4.5 / 0.8
+Heading / STW: 321.4 / 0.0 knots
+COG / SOG: 301.2° / 6.4 knots
+TWD:339.9°
+AWA / AWS: 18.5° / 8.3 knots
+AWS (max): 9.6 knots
+Water Temperature: 21°C
+RPM: 2175
+Engine hours: 156.25
+Coolant Temp.: 78°C
+Fuel #1: 97.6%
+Water, %: 95.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9651052" lon="-76.3882673"><name>"5/15/2021,  5:18:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 52.75591 ft
+Total Log: 562.0 nm
+Rudder: 0.25°
+Roll / Pitch: -5.0 / 0.8
+Heading / STW: 25.0 / 0.0 knots
+COG / SOG: 9.7° / 5.2 knots
+TWD:22.6°
+AWA / AWS: -2.4° / 9.7 knots
+AWS (max): 11.1 knots
+Water Temperature: 21.5°C
+RPM: 2175
+Engine hours: 156
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9579253" lon="-76.3901346"><name>"5/15/2021,  5:13:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 58.66142 ft
+Total Log: 562.0 nm
+Rudder: 0.5°
+Roll / Pitch: -5.8 / 0.8
+Heading / STW: 24.4 / 0.0 knots
+COG / SOG: 9.0° / 5.0 knots
+TWD:26.3°
+AWA / AWS: 1.9° / 11.0 knots
+AWS (max): 11.8 knots
+Water Temperature: 21.5°C
+RPM: 2175
+Engine hours: 156
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9507870" lon="-76.3920245"><name>"5/15/2021,  5:08:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 62.36877 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -3.8 / 0.8
+Heading / STW: 25.0 / 0.0 knots
+COG / SOG: 17.9° / 4.8 knots
+TWD:25.9°
+AWA / AWS: 0.9° / 10.5 knots
+AWS (max): 11.2 knots
+Water Temperature: 21°C
+RPM: 2175
+Engine hours: 156
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9466417" lon="-76.3989619"><name>"5/15/2021,  5:03:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 49.31102 ft
+Total Log: 562.0 nm
+Rudder: -4°
+Roll / Pitch: -3.5 / 0.8
+Heading / STW: 82.8 / 0.0 knots
+COG / SOG: 87.6° / 5.6 knots
+TWD:67.0°
+AWA / AWS: -15.8° / 9.8 knots
+AWS (max): 12.4 knots
+Water Temperature: 21.5°C
+RPM: 2177
+Engine hours: 155.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 96.8 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9453377" lon="-76.4086668"><name>"5/15/2021,  4:58:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 40.45276 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -4.8 / 0.8
+Heading / STW: 85.2 / 0.0 knots
+COG / SOG: 77.0° / 5.6 knots
+TWD:60.0°
+AWA / AWS: -25.2° / 11.2 knots
+AWS (max): 12.1 knots
+Water Temperature: 22°C
+RPM: 2178
+Engine hours: 155.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 97.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9437312" lon="-76.4188224"><name>"5/15/2021,  4:53:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 34.44882 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -3.0 / 0.8
+Heading / STW: 85.0 / 0.0 knots
+COG / SOG: 79.2° / 5.7 knots
+TWD:88.6°
+AWA / AWS: 3.6° / 7.7 knots
+AWS (max): 10.3 knots
+Water Temperature: 21.5°C
+RPM: 2176
+Engine hours: 155.75
+Coolant Temp.: 78°C
+Fuel #1: 98.4%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9422178" lon="-76.4287080"><name>"5/15/2021,  4:48:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 22.73622 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.3 / 0.5
+Heading / STW: 85.7 / 0.0 knots
+COG / SOG: 70.4° / 3.6 knots
+TWD:86.9°
+AWA / AWS: 1.2° / 6.7 knots
+AWS (max): 9.0 knots
+Water Temperature: 22°C
+RPM: 1288
+Engine hours: 155.5
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9451928" lon="-76.4311775"><name>"5/15/2021,  4:43:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 25.68898 ft
+Total Log: 562.0 nm
+Rudder: -9.25°
+Roll / Pitch: -3.5 / 0.8
+Heading / STW: 204.6 / 0.0 knots
+COG / SOG: 223.9° / 3.0 knots
+TWD:187.3°
+AWA / AWS: -17.3° / 2.5 knots
+AWS (max): 4.7 knots
+Water Temperature: 22.5°C
+RPM: 962
+Engine hours: 155.5
+Coolant Temp.: 72°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9447953" lon="-76.4293985"><name>"5/15/2021,  4:38:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 28.14961 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.5 / 0.8
+Heading / STW: 331.0 / 0.0 knots
+COG / SOG: 291.0° / 1.8 knots
+TWD:202.8°
+AWA / AWS: -128.2° / 2.8 knots
+AWS (max): 6.5 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9438428" lon="-76.4272778"><name>"5/15/2021,  4:33:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 29.13386 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.3 / 0.8
+Heading / STW: 330.9 / 0.0 knots
+COG / SOG: 291.6° / 0.7 knots
+TWD:112.1°
+AWA / AWS: 141.2° / 2.5 knots
+AWS (max): 6.1 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9439208" lon="-76.4252470"><name>"5/15/2021,  4:28:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 30.61024 ft
+Total Log: 562.0 nm
+Rudder: -0.75°
+Roll / Pitch: -3.5 / 0.5
+Heading / STW: 292.5 / 0.0 knots
+COG / SOG: 277.1° / 1.6 knots
+TWD:55.2°
+AWA / AWS: 122.7° / 3.4 knots
+AWS (max): 7.0 knots
+Water Temperature: 22.5°C
+RPM: 798
+Engine hours: 155.5
+Coolant Temp.: 76°C
+Fuel #1: 98.4%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9450982" lon="-76.4239250"><name>"5/15/2021,  4:23:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 31.10236 ft
+Total Log: 562.0 nm
+Rudder: 5.5°
+Roll / Pitch: -4.0 / 0.3
+Heading / STW: 174.3 / 0.0 knots
+COG / SOG: 171.2° / 1.4 knots
+TWD:129.3°
+AWA / AWS: -45.0° / 5.0 knots
+AWS (max): 8.2 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9479638" lon="-76.4237785"><name>"5/15/2021,  4:18:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 29.62598 ft
+Total Log: 562.0 nm
+Rudder: -0.5°
+Roll / Pitch: -5.3 / 0.5
+Heading / STW: 196.1 / 0.0 knots
+COG / SOG: 188.4° / 2.2 knots
+TWD:70.3°
+AWA / AWS: -125.8° / 5.9 knots
+AWS (max): 9.7 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9494315" lon="-76.4253171"><name>"5/15/2021,  4:13:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 27.65748 ft
+Total Log: 562.0 nm
+Rudder: 0.25°
+Roll / Pitch: -6.0 / 0.8
+Heading / STW: 72.3 / 0.0 knots
+COG / SOG: 74.4° / 3.3 knots
+TWD:58.3°
+AWA / AWS: -14.0° / 9.0 knots
+AWS (max): 11.6 knots
+Water Temperature: 22°C
+RPM: 1098
+Engine hours: 155.25
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9513930" lon="-76.4356461"><name>"5/15/2021,  4:08:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 21.81759 ft
+Total Log: 562.0 nm
+Rudder: 2.75°
+Roll / Pitch: -4.8 / 1.0
+Heading / STW: 119.3 / 0.0 knots
+COG / SOG: 109.1° / 6.8 knots
+TWD:114.6°
+AWA / AWS: -4.7° / 9.7 knots
+AWS (max): 10.6 knots
+Water Temperature: 21.5°C
+RPM: 2474
+Engine hours: 155.25
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 96.8 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9565916" lon="-76.4449358"><name>"5/15/2021,  4:03:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 20.04593 ft
+Total Log: 562.0 nm
+Rudder: 0.75°
+Roll / Pitch: -5.8 / 0.5
+Heading / STW: 140.2 / 0.0 knots
+COG / SOG: 130.6° / 6.7 knots
+TWD:108.3°
+AWA / AWS: -31.9° / 9.4 knots
+AWS (max): 11.9 knots
+Water Temperature: 21°C
+RPM: 2241
+Engine hours: 155.25
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 98.0 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9592320" lon="-76.4499840"><name>"5/15/2021,  3:58:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 19.61942 ft
+Total Log: 562.0 nm
+Rudder: 2.25°
+Roll / Pitch: -5.8 / 0.8
+Heading / STW: 132.6 / 0.0 knots
+COG / SOG: 118.5° / 5.7 knots
+TWD:102.2°
+AWA / AWS: -30.4° / 10.4 knots
+AWS (max): 16.0 knots
+Water Temperature: 21°C
+RPM: 1843
+Engine hours: 155
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 98.0 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9636163" lon="-76.4615660"><name>"5/15/2021,  3:53:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 15.78084 ft
+Total Log: 562.0 nm
+Rudder: 3.75°
+Roll / Pitch: -3.0 / 1.0
+Heading / STW: 129.6 / 0.0 knots
+COG / SOG: 119.3° / 7.5 knots
+TWD:114.4°
+AWA / AWS: -15.2° / 12.7 knots
+AWS (max): 14.5 knots
+Water Temperature: 21°C
+RPM: 2741
+Engine hours: 155
+Coolant Temp.: 79°C
+Fuel #1: 99.2%
+Water, %: 88.0 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9678976" lon="-76.4726912"><name>"5/15/2021,  3:48:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.87533 ft
+Total Log: 562.0 nm
+Rudder: 3.25°
+Roll / Pitch: -5.0 / 1.0
+Heading / STW: 128.8 / 0.0 knots
+COG / SOG: 116.6° / 6.9 knots
+TWD:120.4°
+AWA / AWS: -8.4° / 12.8 knots
+AWS (max): 13.7 knots
+Water Temperature: 21.5°C
+RPM: 2362
+Engine hours: 155
+Coolant Temp.: 67°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9665843" lon="-76.4793290"><name>"5/15/2021,  3:43:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.89108 ft
+Total Log: 562.0 nm
+Rudder: 3.5°
+Roll / Pitch: -6.0 / 0.8
+Heading / STW: 57.0 / 0.0 knots
+COG / SOG: 43.9° / 3.2 knots
+TWD:89.9°
+AWA / AWS: 32.9° / 6.9 knots
+AWS (max): 10.3 knots
+Water Temperature: 21.5°C
+RPM: 1201
+Engine hours: 154.75
+Coolant Temp.: 49°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9666893" lon="-76.4796825"><name>"5/15/2021,  3:38:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.72703 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -6.0 / 0.3
+Heading / STW: 245.2 / 0.0 knots
+COG / SOG: 0.0° / 0.1 knots
+TWD:113.6°
+AWA / AWS: -131.6° / 7.0 knots
+AWS (max): 10.1 knots
+Water Temperature: 21.5°C
+RPM: 800
+Engine hours: 154.75
+Coolant Temp.: 31°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></wpt>
+
+
+<wpt lat="38.9666976" lon="-76.4797824"><name>"5/15/2021,  3:33:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.85827 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -5.8 / 0.5
+Heading / STW: 240.5 / 0.0 knots
+COG / SOG: ° / 0.0 knots
+TWD:133.7°
+AWA / AWS: -106.8° / 6.7 knots
+AWS (max): 8.0 knots
+Water Temperature: 21.5°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.6 / 99.6
+</cmt></wpt>
+
+<trk><name>Track 1 - 2021-05-15 - 152</name><trkseg>
+
+<trkpt lat="38.9666940" lon="-76.4796824"><name>"5/15/2021,  8:06:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.21916 ft
+Total Log: 562.0 nm
+Rudder: 31.75°
+Roll / Pitch: -5.3 / 0.5
+Heading / STW: 241.4 / 0.0 knots
+COG / SOG: 0.0° / 0.1 knots
+TWD:115.4°
+AWA / AWS: -125.5° / 7.7 knots
+AWS (max): 12.7 knots
+Water Temperature: 21.5°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9666793" lon="-76.4797033"><name>"5/15/2021,  8:01:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.15354 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -5.0 / 0.5
+Heading / STW: 241.1 / 0.0 knots
+COG / SOG: 86.1° / 0.3 knots
+TWD:112.8°
+AWA / AWS: -124.6° / 3.5 knots
+AWS (max): 11.2 knots
+Water Temperature: 21.5°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.6 / 99.6
+</cmt></trkpt>
+
+
+<trkpt lat="38.9667002" lon="-76.4797040"><name>"5/15/2021,  6:18:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.15354 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -5.0 / 0.5
+Heading / STW: 241.1 / 0.0 knots
+COG / SOG: 0.0° / 0.0 knots
+TWD:132.0°
+AWA / AWS: -109.1° / 2.8 knots
+AWS (max): 4.2 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9667205" lon="-76.4797058"><name>"5/15/2021,  6:13:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.95669 ft
+Total Log: 562.0 nm
+Rudder: 31.75°
+Roll / Pitch: -6.3 / 0.5
+Heading / STW: 241.1 / 0.0 knots
+COG / SOG: 216.6° / 0.4 knots
+TWD:110.1°
+AWA / AWS: -131.0° / 4.2 knots
+AWS (max): 5.7 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9662560" lon="-76.4800768"><name>"5/15/2021,  6:08:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.79265 ft
+Total Log: 562.0 nm
+Rudder: -4.75°
+Roll / Pitch: -6.0 / -0.3
+Heading / STW: 237.1 / 0.0 knots
+COG / SOG: 232.1° / 0.4 knots
+TWD:60.2°
+AWA / AWS: -176.9° / 1.7 knots
+AWS (max): 3.9 knots
+Water Temperature: 22°C
+RPM: 2052
+Engine hours: 157
+Coolant Temp.: 76°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9682947" lon="-76.4732361"><name>"5/15/2021,  6:03:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 10.07218 ft
+Total Log: 562.0 nm
+Rudder: 2°
+Roll / Pitch: -5.5 / 0.5
+Heading / STW: 288.9 / 0.0 knots
+COG / SOG: 280.1° / 4.5 knots
+TWD:332.3°
+AWA / AWS: 43.4° / 3.4 knots
+AWS (max): 6.4 knots
+Water Temperature: 22.5°C
+RPM: 1289
+Engine hours: 156.75
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 95.6 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9662011" lon="-76.4621478"><name>"5/15/2021,  5:58:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 18.14304 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.8 / 0.8
+Heading / STW: 286.3 / 0.0 knots
+COG / SOG: 279.7° / 6.8 knots
+TWD:299.1°
+AWA / AWS: 12.8° / 5.3 knots
+AWS (max): 5.8 knots
+Water Temperature: 21°C
+RPM: 2344
+Engine hours: 156.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 98.0 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9664258" lon="-76.4495583"><name>"5/15/2021,  5:53:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 12.95932 ft
+Total Log: 562.0 nm
+Rudder: 0.5°
+Roll / Pitch: -5.0 / 0.8
+Heading / STW: 270.6 / 0.0 knots
+COG / SOG: 261.0° / 7.0 knots
+TWD:275.7°
+AWA / AWS: 5.1° / 3.5 knots
+AWS (max): 3.9 knots
+Water Temperature: 20.5°C
+RPM: 2346
+Engine hours: 156.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9684571" lon="-76.4373881"><name>"5/15/2021,  5:48:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 20.40682 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -4.3 / 0.8
+Heading / STW: 267.8 / 0.0 knots
+COG / SOG: 258.4° / 7.1 knots
+TWD:298.6°
+AWA / AWS: 30.8° / 3.2 knots
+AWS (max): 3.5 knots
+Water Temperature: 20.5°C
+RPM: 2345
+Engine hours: 156.5
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 92.0 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9707585" lon="-76.4273211"><name>"5/15/2021,  5:43:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 16.10892 ft
+Total Log: 562.0 nm
+Rudder: 1.5°
+Roll / Pitch: -5.5 / 0.5
+Heading / STW: 261.3 / 0.0 knots
+COG / SOG: 251.2° / 5.8 knots
+TWD:211.7°
+AWA / AWS: -49.6° / 2.9 knots
+AWS (max): 4.8 knots
+Water Temperature: 20.5°C
+RPM: 1742
+Engine hours: 156.5
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 97.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9740073" lon="-76.4181358"><name>"5/15/2021,  5:38:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 14.92782 ft
+Total Log: 562.0 nm
+Rudder: -8.25°
+Roll / Pitch: -4.5 / 0.8
+Heading / STW: 261.9 / 0.0 knots
+COG / SOG: 257.0° / 5.0 knots
+TWD:64.0°
+AWA / AWS: 162.1° / 1.5 knots
+AWS (max): 6.7 knots
+Water Temperature: 21°C
+RPM: 1743
+Engine hours: 156.5
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9733333" lon="-76.4163020"><name>"5/15/2021,  5:33:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 15.61680 ft
+Total Log: 562.0 nm
+Rudder: 0.75°
+Roll / Pitch: -5.8 / 0.5
+Heading / STW: 297.0 / 0.0 knots
+COG / SOG: 281.0° / 1.8 knots
+TWD:40.6°
+AWA / AWS: 103.6° / 4.5 knots
+AWS (max): 6.2 knots
+Water Temperature: 21°C
+RPM: 801
+Engine hours: 156.25
+Coolant Temp.: 76°C
+Fuel #1: 97.6%
+Water, %: 96.4 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9720340" lon="-76.4062933"><name>"5/15/2021,  5:28:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 31.59449 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -6.3 / 0.5
+Heading / STW: 307.5 / 0.0 knots
+COG / SOG: 290.8° / 7.2 knots
+TWD:315.5°
+AWA / AWS: 8.0° / 5.6 knots
+AWS (max): 8.8 knots
+Water Temperature: 20°C
+RPM: 2176
+Engine hours: 156.25
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 95.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9679264" lon="-76.3958400"><name>"5/15/2021,  5:23:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 44.88189 ft
+Total Log: 562.0 nm
+Rudder: -0.5°
+Roll / Pitch: -4.5 / 0.8
+Heading / STW: 321.4 / 0.0 knots
+COG / SOG: 301.2° / 6.4 knots
+TWD:339.9°
+AWA / AWS: 18.5° / 8.3 knots
+AWS (max): 9.6 knots
+Water Temperature: 21°C
+RPM: 2175
+Engine hours: 156.25
+Coolant Temp.: 78°C
+Fuel #1: 97.6%
+Water, %: 95.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9651052" lon="-76.3882673"><name>"5/15/2021,  5:18:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 52.75591 ft
+Total Log: 562.0 nm
+Rudder: 0.25°
+Roll / Pitch: -5.0 / 0.8
+Heading / STW: 25.0 / 0.0 knots
+COG / SOG: 9.7° / 5.2 knots
+TWD:22.6°
+AWA / AWS: -2.4° / 9.7 knots
+AWS (max): 11.1 knots
+Water Temperature: 21.5°C
+RPM: 2175
+Engine hours: 156
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9579253" lon="-76.3901346"><name>"5/15/2021,  5:13:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 58.66142 ft
+Total Log: 562.0 nm
+Rudder: 0.5°
+Roll / Pitch: -5.8 / 0.8
+Heading / STW: 24.4 / 0.0 knots
+COG / SOG: 9.0° / 5.0 knots
+TWD:26.3°
+AWA / AWS: 1.9° / 11.0 knots
+AWS (max): 11.8 knots
+Water Temperature: 21.5°C
+RPM: 2175
+Engine hours: 156
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9507870" lon="-76.3920245"><name>"5/15/2021,  5:08:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 62.36877 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -3.8 / 0.8
+Heading / STW: 25.0 / 0.0 knots
+COG / SOG: 17.9° / 4.8 knots
+TWD:25.9°
+AWA / AWS: 0.9° / 10.5 knots
+AWS (max): 11.2 knots
+Water Temperature: 21°C
+RPM: 2175
+Engine hours: 156
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9466417" lon="-76.3989619"><name>"5/15/2021,  5:03:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 49.31102 ft
+Total Log: 562.0 nm
+Rudder: -4°
+Roll / Pitch: -3.5 / 0.8
+Heading / STW: 82.8 / 0.0 knots
+COG / SOG: 87.6° / 5.6 knots
+TWD:67.0°
+AWA / AWS: -15.8° / 9.8 knots
+AWS (max): 12.4 knots
+Water Temperature: 21.5°C
+RPM: 2177
+Engine hours: 155.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 96.8 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9453377" lon="-76.4086668"><name>"5/15/2021,  4:58:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 40.45276 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -4.8 / 0.8
+Heading / STW: 85.2 / 0.0 knots
+COG / SOG: 77.0° / 5.6 knots
+TWD:60.0°
+AWA / AWS: -25.2° / 11.2 knots
+AWS (max): 12.1 knots
+Water Temperature: 22°C
+RPM: 2178
+Engine hours: 155.75
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 97.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9437312" lon="-76.4188224"><name>"5/15/2021,  4:53:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 34.44882 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -3.0 / 0.8
+Heading / STW: 85.0 / 0.0 knots
+COG / SOG: 79.2° / 5.7 knots
+TWD:88.6°
+AWA / AWS: 3.6° / 7.7 knots
+AWS (max): 10.3 knots
+Water Temperature: 21.5°C
+RPM: 2176
+Engine hours: 155.75
+Coolant Temp.: 78°C
+Fuel #1: 98.4%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9422178" lon="-76.4287080"><name>"5/15/2021,  4:48:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 22.73622 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.3 / 0.5
+Heading / STW: 85.7 / 0.0 knots
+COG / SOG: 70.4° / 3.6 knots
+TWD:86.9°
+AWA / AWS: 1.2° / 6.7 knots
+AWS (max): 9.0 knots
+Water Temperature: 22°C
+RPM: 1288
+Engine hours: 155.5
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9451928" lon="-76.4311775"><name>"5/15/2021,  4:43:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 25.68898 ft
+Total Log: 562.0 nm
+Rudder: -9.25°
+Roll / Pitch: -3.5 / 0.8
+Heading / STW: 204.6 / 0.0 knots
+COG / SOG: 223.9° / 3.0 knots
+TWD:187.3°
+AWA / AWS: -17.3° / 2.5 knots
+AWS (max): 4.7 knots
+Water Temperature: 22.5°C
+RPM: 962
+Engine hours: 155.5
+Coolant Temp.: 72°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9447953" lon="-76.4293985"><name>"5/15/2021,  4:38:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 28.14961 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.5 / 0.8
+Heading / STW: 331.0 / 0.0 knots
+COG / SOG: 291.0° / 1.8 knots
+TWD:202.8°
+AWA / AWS: -128.2° / 2.8 knots
+AWS (max): 6.5 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9438428" lon="-76.4272778"><name>"5/15/2021,  4:33:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 29.13386 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -5.3 / 0.8
+Heading / STW: 330.9 / 0.0 knots
+COG / SOG: 291.6° / 0.7 knots
+TWD:112.1°
+AWA / AWS: 141.2° / 2.5 knots
+AWS (max): 6.1 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9439208" lon="-76.4252470"><name>"5/15/2021,  4:28:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 30.61024 ft
+Total Log: 562.0 nm
+Rudder: -0.75°
+Roll / Pitch: -3.5 / 0.5
+Heading / STW: 292.5 / 0.0 knots
+COG / SOG: 277.1° / 1.6 knots
+TWD:55.2°
+AWA / AWS: 122.7° / 3.4 knots
+AWS (max): 7.0 knots
+Water Temperature: 22.5°C
+RPM: 798
+Engine hours: 155.5
+Coolant Temp.: 76°C
+Fuel #1: 98.4%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9450982" lon="-76.4239250"><name>"5/15/2021,  4:23:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 31.10236 ft
+Total Log: 562.0 nm
+Rudder: 5.5°
+Roll / Pitch: -4.0 / 0.3
+Heading / STW: 174.3 / 0.0 knots
+COG / SOG: 171.2° / 1.4 knots
+TWD:129.3°
+AWA / AWS: -45.0° / 5.0 knots
+AWS (max): 8.2 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9479638" lon="-76.4237785"><name>"5/15/2021,  4:18:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 29.62598 ft
+Total Log: 562.0 nm
+Rudder: -0.5°
+Roll / Pitch: -5.3 / 0.5
+Heading / STW: 196.1 / 0.0 knots
+COG / SOG: 188.4° / 2.2 knots
+TWD:70.3°
+AWA / AWS: -125.8° / 5.9 knots
+AWS (max): 9.7 knots
+Water Temperature: 22°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9494315" lon="-76.4253171"><name>"5/15/2021,  4:13:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 27.65748 ft
+Total Log: 562.0 nm
+Rudder: 0.25°
+Roll / Pitch: -6.0 / 0.8
+Heading / STW: 72.3 / 0.0 knots
+COG / SOG: 74.4° / 3.3 knots
+TWD:58.3°
+AWA / AWS: -14.0° / 9.0 knots
+AWS (max): 11.6 knots
+Water Temperature: 22°C
+RPM: 1098
+Engine hours: 155.25
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9513930" lon="-76.4356461"><name>"5/15/2021,  4:08:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 21.81759 ft
+Total Log: 562.0 nm
+Rudder: 2.75°
+Roll / Pitch: -4.8 / 1.0
+Heading / STW: 119.3 / 0.0 knots
+COG / SOG: 109.1° / 6.8 knots
+TWD:114.6°
+AWA / AWS: -4.7° / 9.7 knots
+AWS (max): 10.6 knots
+Water Temperature: 21.5°C
+RPM: 2474
+Engine hours: 155.25
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 96.8 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9565916" lon="-76.4449358"><name>"5/15/2021,  4:03:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 20.04593 ft
+Total Log: 562.0 nm
+Rudder: 0.75°
+Roll / Pitch: -5.8 / 0.5
+Heading / STW: 140.2 / 0.0 knots
+COG / SOG: 130.6° / 6.7 knots
+TWD:108.3°
+AWA / AWS: -31.9° / 9.4 knots
+AWS (max): 11.9 knots
+Water Temperature: 21°C
+RPM: 2241
+Engine hours: 155.25
+Coolant Temp.: 78°C
+Fuel #1: 99.2%
+Water, %: 98.0 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9592320" lon="-76.4499840"><name>"5/15/2021,  3:58:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 19.61942 ft
+Total Log: 562.0 nm
+Rudder: 2.25°
+Roll / Pitch: -5.8 / 0.8
+Heading / STW: 132.6 / 0.0 knots
+COG / SOG: 118.5° / 5.7 knots
+TWD:102.2°
+AWA / AWS: -30.4° / 10.4 knots
+AWS (max): 16.0 knots
+Water Temperature: 21°C
+RPM: 1843
+Engine hours: 155
+Coolant Temp.: 77°C
+Fuel #1: 99.2%
+Water, %: 98.0 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9636163" lon="-76.4615660"><name>"5/15/2021,  3:53:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 15.78084 ft
+Total Log: 562.0 nm
+Rudder: 3.75°
+Roll / Pitch: -3.0 / 1.0
+Heading / STW: 129.6 / 0.0 knots
+COG / SOG: 119.3° / 7.5 knots
+TWD:114.4°
+AWA / AWS: -15.2° / 12.7 knots
+AWS (max): 14.5 knots
+Water Temperature: 21°C
+RPM: 2741
+Engine hours: 155
+Coolant Temp.: 79°C
+Fuel #1: 99.2%
+Water, %: 88.0 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9678976" lon="-76.4726912"><name>"5/15/2021,  3:48:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 9.87533 ft
+Total Log: 562.0 nm
+Rudder: 3.25°
+Roll / Pitch: -5.0 / 1.0
+Heading / STW: 128.8 / 0.0 knots
+COG / SOG: 116.6° / 6.9 knots
+TWD:120.4°
+AWA / AWS: -8.4° / 12.8 knots
+AWS (max): 13.7 knots
+Water Temperature: 21.5°C
+RPM: 2362
+Engine hours: 155
+Coolant Temp.: 67°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9665843" lon="-76.4793290"><name>"5/15/2021,  3:43:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.89108 ft
+Total Log: 562.0 nm
+Rudder: 3.5°
+Roll / Pitch: -6.0 / 0.8
+Heading / STW: 57.0 / 0.0 knots
+COG / SOG: 43.9° / 3.2 knots
+TWD:89.9°
+AWA / AWS: 32.9° / 6.9 knots
+AWS (max): 10.3 knots
+Water Temperature: 21.5°C
+RPM: 1201
+Engine hours: 154.75
+Coolant Temp.: 49°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9666893" lon="-76.4796825"><name>"5/15/2021,  3:38:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.72703 ft
+Total Log: 562.0 nm
+Rudder: -0.25°
+Roll / Pitch: -6.0 / 0.3
+Heading / STW: 245.2 / 0.0 knots
+COG / SOG: 0.0° / 0.1 knots
+TWD:113.6°
+AWA / AWS: -131.6° / 7.0 knots
+AWS (max): 10.1 knots
+Water Temperature: 21.5°C
+RPM: 800
+Engine hours: 154.75
+Coolant Temp.: 31°C
+Fuel #1: 99.2%
+Water, %: 99.2 / 99.2
+</cmt></trkpt>
+
+
+<trkpt lat="38.9666976" lon="-76.4797824"><name>"5/15/2021,  3:33:00 PM"</name><ele>-2.51</ele><cmt>
+Depth: 8.85827 ft
+Total Log: 562.0 nm
+Rudder: 0°
+Roll / Pitch: -5.8 / 0.5
+Heading / STW: 240.5 / 0.0 knots
+COG / SOG: ° / 0.0 knots
+TWD:133.7°
+AWA / AWS: -106.8° / 6.7 knots
+AWS (max): 8.0 knots
+Water Temperature: 21.5°C
+RPM: 
+Engine hours: 
+Coolant Temp.: °C
+Fuel #1: 99.2%
+Water, %: 99.6 / 99.6
+</cmt></trkpt>
+
+</trkseg></trk></gpx>
